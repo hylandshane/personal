@@ -1,4 +1,4 @@
 personal
 =======
 
-no projects yet justbabstarting point more to come.
+no projects yet just a starting point more to come.
